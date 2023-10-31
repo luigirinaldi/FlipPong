@@ -4,6 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
+                "/usr/share/verilator/**",
                 "/usr/local/share/verilator/**"
             ],
             "defines": [],
